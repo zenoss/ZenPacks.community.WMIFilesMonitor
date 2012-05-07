@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.community.WMIFilesMonitor'
 VERSION = '1.2'
 AUTHOR = 'J.B. Giraudeau <jbgiraudeau@gmail.com>'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.WMIFilesMonitor']
 INSTALL_REQUIRES = []
